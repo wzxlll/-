@@ -1,0 +1,3 @@
+通过DrissionPage进行爬取
+需要python环境
+需要包：DrissionPage、BeautifulSoup
